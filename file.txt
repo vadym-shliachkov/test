@@ -2,8 +2,3 @@
 This is master branch update
 with
 This is changes branch
-
-1
-
-add_nmber:1
-master changes: 1 + 100500
